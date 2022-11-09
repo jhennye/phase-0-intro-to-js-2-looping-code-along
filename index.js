@@ -1,1 +1,4 @@
-// Code your solutions in this file
+function countDown (){
+ return countDown = 10 ;
+while (countDown >=0)
+{console.log(countDown--)};}
